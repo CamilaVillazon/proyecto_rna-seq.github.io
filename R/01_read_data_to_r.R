@@ -1,4 +1,4 @@
-# Load required pakages
+# Load required packages
 library("recount3")
 library("edgeR")
 library("ggplot2")
